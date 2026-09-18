@@ -25,13 +25,6 @@ Inferred from public repositories:
 
 _If you prefer different repos featured, tell me which ones and a one-line description for each and I'll update the README._
 
-## GitHub stats
-<!-- Only useful widgets included -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=so-high-l&show_icons=true&theme=radical&cache_seconds=1800" alt="so-high-l's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=so-high-l&layout=compact&theme=radical&cache_seconds=1800" alt="Top languages" />
-</p>
-
 ## Contact & Availability
 - Location: Morocco
 - Open to work: Yes — actively open to new engineering roles and contract opportunities
